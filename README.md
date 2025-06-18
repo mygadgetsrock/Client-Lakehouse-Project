@@ -6,7 +6,7 @@ Short summary
 
 Tools used (icons optional)
 
-Architecture diagram (![Diagram](pipeline-diagram.png))
+Architecture diagram
 
 Screenshots (optional)
 
